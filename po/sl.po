@@ -1035,6 +1035,10 @@ msgstr "Prilagojeno"
 msgid "Stretched"
 msgstr "Raztegnjeno"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Napolnjeno"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Blok"

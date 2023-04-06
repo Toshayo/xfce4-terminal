@@ -1035,6 +1035,10 @@ msgstr "비례 배치"
 msgid "Stretched"
 msgstr "늘임"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "채움"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "블록"

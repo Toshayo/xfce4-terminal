@@ -1033,6 +1033,10 @@ msgstr "Skaleeritud"
 msgid "Stretched"
 msgstr "Venitatud"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Täidetud"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Blokk"

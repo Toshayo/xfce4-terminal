@@ -1035,6 +1035,10 @@ msgstr "Мащабирано"
 msgid "Stretched"
 msgstr "Разпънато"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Изпълнено"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Блок"

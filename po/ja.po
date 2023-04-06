@@ -1035,6 +1035,10 @@ msgstr "拡大縮小"
 msgid "Stretched"
 msgstr "伸長あり"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "フィル"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "ブロック"

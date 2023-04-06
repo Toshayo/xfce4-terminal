@@ -1035,6 +1035,10 @@ msgstr "Eskalaturik"
 msgid "Stretched"
 msgstr "Txikiturik"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Beteta"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr ""

@@ -1044,6 +1044,10 @@ msgstr "Dimensionado"
 msgid "Stretched"
 msgstr "Esticado"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Preenchidas "
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Bloco"

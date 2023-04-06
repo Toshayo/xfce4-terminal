@@ -1034,6 +1034,10 @@ msgstr "Shkallëzuar"
 msgid "Stretched"
 msgstr "Shformuar"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "I mbushur"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr ""

@@ -1042,6 +1042,10 @@ msgstr "Σε κλίμακα"
 msgid "Stretched"
 msgstr "Τεντωμένο"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Γεμάτο"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Αποτροπή"

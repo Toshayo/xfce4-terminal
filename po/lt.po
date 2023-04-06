@@ -1035,6 +1035,10 @@ msgstr "Ištempta"
 msgid "Stretched"
 msgstr "Ištempta"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Užpildyta"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Blokas"

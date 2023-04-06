@@ -1047,6 +1047,10 @@ msgstr "Mise à l’échelle"
 msgid "Stretched"
 msgstr "Étendue"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Rempli"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Bloc"

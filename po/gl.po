@@ -1035,6 +1035,10 @@ msgstr "Escalado"
 msgid "Stretched"
 msgstr "Estirado"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Enchido"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Bloque"

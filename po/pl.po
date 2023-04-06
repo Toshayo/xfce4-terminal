@@ -1045,6 +1045,10 @@ msgstr "Przeskalowanie"
 msgid "Stretched"
 msgstr "Rozciągnięcie"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Wypełnienie"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Zablokuj"

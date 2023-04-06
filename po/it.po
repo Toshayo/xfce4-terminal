@@ -1041,6 +1041,10 @@ msgstr "Scalata"
 msgid "Stretched"
 msgstr "Stirata"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Pieno"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Blocco"

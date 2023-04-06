@@ -1043,6 +1043,10 @@ msgstr "Ölçekle"
 msgid "Stretched"
 msgstr "Genişlet"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Dolu"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Engelle"

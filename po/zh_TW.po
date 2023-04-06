@@ -1036,6 +1036,10 @@ msgstr "縮放"
 msgid "Stretched"
 msgstr "延伸"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "已填充"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "區塊"

@@ -1035,6 +1035,10 @@ msgstr "Раширен"
 msgid "Stretched"
 msgstr "Развучено"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Попуњено"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Заустави"

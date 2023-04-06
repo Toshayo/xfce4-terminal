@@ -1038,6 +1038,10 @@ msgstr "Přizpůsobený"
 msgid "Stretched"
 msgstr "Roztažený"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Vyplněný"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Do bloku"

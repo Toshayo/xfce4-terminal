@@ -1041,6 +1041,10 @@ msgstr "Skaliert"
 msgid "Stretched"
 msgstr "Gestreckt"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Gefüllt"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Block"

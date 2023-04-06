@@ -1037,6 +1037,10 @@ msgstr "Масштабоване"
 msgid "Stretched"
 msgstr "Розтягнуте"
 
+#: ../terminal/terminal-preferences-dialog.c:950
+msgid "Filled"
+msgstr "Заповнений"
+
 #: ../terminal/terminal-preferences.glade.h:20
 msgid "Block"
 msgstr "Блок"
